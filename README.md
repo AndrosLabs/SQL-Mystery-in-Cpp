@@ -21,11 +21,13 @@ On the CS50 website scroll to week 7 SQL and watch the lecture.
 Note: 
 - The lecture itself makes some use of python code but however you can just bear it for 20 mins.
 - It's assumed that you understand and are comfortable with typing commands in the terminal
+
 P.S you have been doing this all along when you would compile c code e.g gcc -o.
 
 ### 3) Watching Additional Suppliment Course
 - Shorts
 - Section
+
 P.S these above are optional and only meant to explain some of the concepts and assist you in understanding.
 
 ### 4) Solving Pset
