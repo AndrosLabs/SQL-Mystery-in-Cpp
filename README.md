@@ -14,7 +14,7 @@ Let's get started with the tools we need.
 
 ###  2) Do the Following
 - Enroll at [EdX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?webview=false&campaign=CS50%27s+Introduction+to+Computer+Science&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fcs50) for CS50
-- Access the [VS code]
+- Access the [VS code](cs50.dev)
 - Bookmark [CS50 Website](https://cs50.harvard.edu/x/2024/)
 - Share your GitHub Username in the group
 - Use the online [VS Code](cs50.dev) to solve the pset
