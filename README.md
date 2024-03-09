@@ -15,6 +15,7 @@ Let's get started with the tools we need.
 ###  2) Do the Following
 - Bookmark [CS50 Website](https://cs50.harvard.edu/x/2024/)
 - Share your GitHub Username in the group
+- Use the online [VS Code](cs50.dev) to solve the pset
 
 ### 2) Watching Lecture:
 On the CS50 website scroll to week 7 SQL and watch the lecture.
